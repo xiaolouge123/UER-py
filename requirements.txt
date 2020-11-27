@@ -1,4 +1,5 @@
-torch>=1.0
+torch>=1.4
 argparse
 six>=1.12.0
 packaging
+sklearn
